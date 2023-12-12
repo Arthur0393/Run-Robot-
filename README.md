@@ -7,3 +7,5 @@
 <p>IA Navigator</p>
 <h3>Link del video</h3>
 <a href = "https://drive.google.com/file/d/1zTPJgLtWcygIevdoXtT9v45jU_vVn0RZ/view?usp=sharing" >Click Aqui 😴</a>
+<h3>Creado:</h3>
+<p>Carlos Arturo Romero Alcantara</p>
